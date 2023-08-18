@@ -11,7 +11,7 @@ first_id = "chatcmpl-7FunqjtgiPrQhBR5hnOoOlqDsdxZr"
 
 
 ####
-login_cookie = '__client_id=cb4d60fc68838bddb178d2a64303ee9ca34cbf25; login_referer=https%3A%2F%2Fwww.luogu.com.cn%2F; _uid=988888'
+login_cookie = '__client_id=cb4d60f****************************5; login_referer=https%3A%2F%2Fwww.luogu.com.cn%2F; _uid=988888'
 login_uid=988888
 csrf_token = '自动分配'
 #ad = '【欢迎加入 BPOJ (bpoj.top;154.12.55.87),开发组招人中~ 欢迎合作~】'
